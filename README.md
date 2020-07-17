@@ -4,6 +4,10 @@
 ```
 cd frp根路径
 gmake
+
+在64位下编译32位
+set GOARCH=386
+gmake
 ```
 
 # 扩展功能说明
