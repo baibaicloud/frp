@@ -79,3 +79,8 @@ port_check_url = http://127.0.0.1:8080/tunnel/port/check
 2. 客户端的代理名称可自行修改，比如会加一些认证信息，再配合调用http协议进行验证，很容易进行控制指定的客户端只能指定对应的远程端口。
 
 # frp的详细配置请参照官方 README_zh.md
+
+# docker build images
+```
+docker build -t registry.cn-hangzhou.aliyuncs.com/baibaicloud/baibai-frp:1.0.0 .
+```
