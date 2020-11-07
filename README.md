@@ -84,3 +84,7 @@ port_check_url = http://127.0.0.1:8080/tunnel/port/check
 ```
 docker build -t registry.cn-hangzhou.aliyuncs.com/baibaicloud/baibai-frp:1.0.0 .
 ```
+
+# 基于WEB的远程控制系统
+[源码](https://github.com/baibaicloud/platform)
+![控制.png](https://img-blog.csdnimg.cn/20200725232021807.png)
