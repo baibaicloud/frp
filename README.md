@@ -88,3 +88,4 @@ docker build -t registry.cn-hangzhou.aliyuncs.com/baibaicloud/baibai-frp:1.0.0 .
 # 基于WEB的远程控制系统
 [源码](https://github.com/baibaicloud/platform)
 ![控制.png](https://img-blog.csdnimg.cn/20200725232021807.png)
+[官网地址http://bb.app-yun.com/](http://bb.app-yun.com/)
