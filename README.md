@@ -89,3 +89,8 @@ docker build -t registry.cn-hangzhou.aliyuncs.com/baibaicloud/baibai-frp:1.0.0 .
 [源码](https://github.com/baibaicloud/platform)
 ![控制.png](https://img-blog.csdnimg.cn/20200725232021807.png)
 [官网地址http://bb.app-yun.com/](http://bb.app-yun.com/)
+
+# 插个私人广告 BB-API HTTP请求工具
+致力于打造简洁、免费、好用的HTTP模拟请求工具，自动生成接口文档。
+帮助您公司、团队、个人提高开发效率。
+官网地址：http://api.app-yun.com/bbapi/index.html
