@@ -1,7 +1,7 @@
 # 重要声明，本开源基于https://github.com/fatedier/frp，在原本基础功能上添加认证相关功能
 # 基于v0.30.0 进行修改，git url https://github.com/fatedier/frp/tree/v0.30.0
 # 本项目已迁移到gitee上
-# [gitee地址https://gitee.com/baibaiclouds/platform](https://gitee.com/baibaiclouds/platform)
+# [gitee地址https://gitee.com/baibaiclouds/frp](https://gitee.com/baibaiclouds/frp)
 
 # build windown
 ```
